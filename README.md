@@ -10,13 +10,13 @@ The preferred way to install this extension is through [composer](http://getcomp
 Either run
 
 ```
-php composer.phar require --prefer-dist bluezip/bluezip-yii2-backbone "*"
+php composer.phar require --prefer-dist bluezip/yii2-backbone "*"
 ```
 
 or add
 
 ```
-"bluezip/bluezip-yii2-backbone": "*"
+"bluezip/yii2-backbone": "*"
 ```
 
 to the require section of your `composer.json` file.
